@@ -1,0 +1,16 @@
+.containerm {
+    height: 50px;
+    background: #0cc273;
+    margin: 0 auto;
+  }
+
+  .gridcontainerm{
+    display: grid;
+    grid-template-columns: auto;
+    background-color: #56f2a4;
+    padding: 10px;
+  }
+
+  .gridcontainerm button{
+    font-size: large;
+  }
